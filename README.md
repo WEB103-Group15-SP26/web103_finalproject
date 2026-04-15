@@ -1,4 +1,4 @@
-# In Devolpment
+# Recommended Tunes
 
 CodePath WEB103 Final Project
 
@@ -59,8 +59,6 @@ The user will be able to delete a music genre from their favorites list.
 The users will receive user friendly errors so that they know what happened.  
 
 [gif goes here]
-
-### [ADDITIONAL FEATURES GO HERE - ADD ALL FEATURES HERE IN THE FORMAT ABOVE; you will check these off and add gifs as you complete them]
 
 ## Installation Instructions
 
