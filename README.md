@@ -18,9 +18,9 @@ The inspiration is Spotify and Pandora.
 
 ## Tech Stack
 
-Frontend:
+Frontend: React, React Router, Pico CSS
 
-Backend:
+Backend: Express, PostgreSQL, Node.js
 
 ## Features
 
