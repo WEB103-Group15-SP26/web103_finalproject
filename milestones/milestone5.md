@@ -6,7 +6,7 @@ This document should be completed and submitted during **Unit 9** of this course
 
 This unit, be sure to complete all tasks listed below. To complete a task, place an `x` between the brackets.
 
-- [ ] Deploy your project on Render
+- [x] Deploy your project on Render
   - [x] In `readme.md`, add the link to your deployed project
 - [x] Update the status of issues in your project board as you complete them
 - [x] In `readme.md`, check off the features you have completed in this unit by adding a ✅ emoji in front of their title
@@ -25,8 +25,8 @@ Complete the checklist below detailing each baseline, custom, and stretch featur
 👉🏾👉🏾👉🏾 Check off each completed feature below.
 
 - [x] The project includes an Express backend app and a React frontend app
-- [ ] The project includes these backend-specific features:
-  - [ ] At least one of each of the following database relationships in Postgres
+- [x] The project includes these backend-specific features:
+  - [x] At least one of each of the following database relationships in Postgres
     - [x] one-to-many
     - [x] many-to-many with a join table
   - [x] A well-designed RESTful API that:
@@ -44,8 +44,8 @@ Complete the checklist below detailing each baseline, custom, and stretch featur
   - [x] Hierarchically designed React components
     - [x] Components broken down into categories, including Page and Component types
     - [x] Corresponding container components and presenter components as appropriate
-- [ ] The project includes dynamic routes for both frontend and backend apps
-- [ ] The project is deployed on Render with all pages and features that are visible to the user are working as intended
+- [x] The project includes dynamic routes for both frontend and backend apps
+- [x] The project is deployed on Render with all pages and features that are visible to the user are working as intended
 
 ### Custom Features
 
