@@ -5,7 +5,8 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "start": "npm run reset && nodemon server/server.js",
+    "start": "node server/server.js",
+    "dev": "npm run reset && nodemon server/server.js",
     "reset": "node server/config/reset.js",
     "client": "cd client && npm run dev"
   },
