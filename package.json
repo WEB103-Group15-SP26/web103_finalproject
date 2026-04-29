@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "start": "node server/server.js",
+    "build": "cd client && npm install && npm run build",
     "dev": "npm run reset && nodemon server/server.js",
     "reset": "node server/config/reset.js",
     "client": "cd client && npm run dev"
